@@ -12,7 +12,8 @@
         <li>H.J Corp대표</li>
     </ul>
     <h1>My stack</h1>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/HTML-#000000?style=?style=for-the-badge&logo=appveyor&logo=html&logoColor=#E34F26" alt="">
+     
     <h1>Progect</h1>
 </body>
 </html>
