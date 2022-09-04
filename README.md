@@ -13,7 +13,5 @@
         <li>H.J Corp대표</li>
     </ul>
     <h1>My stack</h1>
-    
-    <h1>Progect</h1>
 </body>
 </html>
