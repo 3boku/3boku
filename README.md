@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -13,6 +12,7 @@
         <li>H.J Corp대표</li>
     </ul>
     <h1>My stack</h1>
-    https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="">
+    <h1>Progect</h1>
 </body>
 </html>
