@@ -12,6 +12,7 @@
       <li>H.J Corp. 대표</li>
     </ul>
     <h1>My stacks</h1>
+    <p>
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
     />
@@ -38,7 +39,7 @@
     />
     <img
       src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
-    />
+    /></p>
     <h1>My stats</h1>
     <img
       src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
