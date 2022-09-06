@@ -41,7 +41,10 @@
         src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
       />
       <h1>My stats</h1>
-      <p><img src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="흐에?"></p>
+      <p><img src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="내 스텟"></p>
+      
+      <h1>Most using Language</h1>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="많이 쓰는 언어">
     </p>
 
   
