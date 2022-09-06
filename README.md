@@ -40,9 +40,10 @@
       <img
         src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
       />
-      
+      <h1>My stats</h1>
+      <p><img src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="흐에?"></p>
     </p>
-    <h1>My stats</h1>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="흐에?"></p>
+
+  
   </body>
 </html>
