@@ -6,12 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <h1>안녕하세요 여러분! 저는 정현서입니다!</h1>
+    <h1>
+      안녕하세요 여러분! 저는 정현서입니다!
+    </h1>
     <ul>
       <li>서울로봇고등학교 시스템과 재학중</li>
       <li>H.J Corp. 대표</li>
     </ul>
-    <h1>My stacks</h1>
+    
+    <h1>
+      My stacks
+    </h1>
     <p>
       <img
         src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
@@ -39,17 +44,20 @@
       />
       <img
         src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
-      /></p>
-      <p>
-      <h1>My stats</h1>
-      <img src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="내 스텟">
-      </p>
-      <p>
-      <h1>Most using Language</h1>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight" alt="많이 쓰는 언어">
-       </p>
+      />
     </p>
-
-  
+    <h1>
+      My stats
+    </h1>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight" 
+        alt="내 스텟"
+      />
+    <h1>
+      Most using Language
+    </h1>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight" 
+        alt="많이 쓰는 언어"/>
   </body>
 </html>
