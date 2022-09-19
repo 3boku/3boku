@@ -59,7 +59,6 @@
       src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
       alt="내 스텟"
     />
-    <h1>Most using Language</h1>
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
       alt="많이 쓰는 언어"
