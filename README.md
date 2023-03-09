@@ -30,9 +30,6 @@
         src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"
-      />
-      <img
         src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"
       />
       <img
