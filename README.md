@@ -55,14 +55,5 @@
         src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
       />
     </p>
-    <h1>My stats</h1>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
-      alt="내 스텟"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
-      alt="많이 쓰는 언어"
-    />
   </body>
 </html>
