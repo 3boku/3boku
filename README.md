@@ -57,11 +57,11 @@
     </p>
     <h1>My stats</h1>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=정삼복&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
       alt="내 스텟"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=정삼복&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH&show_icons=true&theme=tokyonight"
       alt="많이 쓰는 언어"
     />
   </body>
