@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&text=저는%20정현서 혹은 정삼복%20입니다!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
+    <img src="https://capsule-render.vercel.app/api?type=waving&text=저는%20정현서%20혹은%20정삼복입니다&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
          />
     <ul>
       <li>(現)서울로봇고등학교 시스템과 재학</li>
