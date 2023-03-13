@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <h1>안녕하세요 여러분! 저는 정현서입니다!</h1>
+    <img src="https://capsule-render.vercel.app/api?type=waving&text=자기소개는%20너무%20어려워&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
+         />
     <ul>
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
