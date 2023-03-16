@@ -57,5 +57,9 @@
         src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
       />
     </p>
+    <h1>My Stats</h1>
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANONANDFLASH"
+      />
   </body>
 </html>
