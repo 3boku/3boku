@@ -59,7 +59,7 @@
     </p>
     <h1>My Stats</h1>
     <img
-        src="https://github-readme-stats.vercel.app/api?username=Torychu&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=radical"
       />
   </body>
 </html>
