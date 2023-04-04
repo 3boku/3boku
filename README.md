@@ -8,6 +8,11 @@
   <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&text=저는%20정현서%20혹은%20정삼복입니다&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
          />
+    <br/>
+    <img
+        src="https://workers-visitors.wlsdnr129.workers.dev/visit?username=$NANONANDFLASH"
+      />
+    <br/>
     <ul>
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
