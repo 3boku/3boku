@@ -61,6 +61,9 @@
       <img
         src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"
+      />
     </p>
     <h1>My Stats</h1>
     <img
