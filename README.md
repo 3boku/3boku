@@ -18,7 +18,6 @@
       <li>(現)SPAM 학교 웹사이트 프로젝트  PM</li>
     </ul>
     <div align=center><h1>📚 STACKS 📚 </h1></div>
-
     <div align="center">
         <img
           src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"
