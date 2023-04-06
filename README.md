@@ -35,7 +35,6 @@
           src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
         />
         <br />
-      
         <img
           src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         />
@@ -48,8 +47,7 @@
         <img
           src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
         />
-        <br />
-      
+        <br />      
         <img
           src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
         />
@@ -65,8 +63,7 @@
         <img
           src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
         />
-        <br />
-      
+        <br />      
         <img
           src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"
         />
@@ -79,8 +76,7 @@
         <img
           src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black"
         />
-        <br />
-      
+        <br />     
         <img
           src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
         />
@@ -93,8 +89,7 @@
         <img
           src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
         />
-        <br />
-      
+        <br /> 
         <img
           src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
         />
@@ -105,7 +100,6 @@
           src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"
         />
         <br />
-      
         <img
           src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"
         />
