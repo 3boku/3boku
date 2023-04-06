@@ -8,11 +8,6 @@
   <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&text=저는%20정현서%20혹은%20정삼복입니다&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
          />
-    <br/>
-    <img
-        src="https://workers-visitors.wlsdnr129.workers.dev/visit?username=$NANONANDFLASH"
-      />
-    <br/>
     <ul>
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
@@ -22,52 +17,107 @@
       <li>(前)크레로봇 부원</li>
       <li>(現)SPAM 학교 웹사이트 프로젝트  PM</li>
     </ul>
-    <h1>My stacks</h1>
-    <p>
-      <img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Nodedotjs-#339933?style=flat-square&logo=Nodedotjs&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Nongodb-#47A248?style=flat-square&logo=Mongodb&logoColor=white"
-      />
-      <br />
-      <img
-        src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
-      />
-    </p>
+    <div align=center><h1>📚 STACKS 📚 </h1></div>
+
+    <div align="center">
+        <img
+          src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+        />
+        <img
+          src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"
+        />
+        <br />
+      
+        <img
+          src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"
+        />
+        <img
+          src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"
+        />
+        <br />
+      </div>
     <h1>My Stats</h1>
     <img
         src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=radical"
