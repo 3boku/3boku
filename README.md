@@ -49,10 +49,10 @@
         src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/nodedotjs-#339933?style=flat-square&logo=nodedotjs&logoColor=white"
+        src="https://img.shields.io/badge/Nodedotjs-#339933?style=flat-square&logo=Nodedotjs&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=white"
+        src="https://img.shields.io/badge/Nongodb-#47A248?style=flat-square&logo=Mongodb&logoColor=white"
       />
       <br />
       <img
