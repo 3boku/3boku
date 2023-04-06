@@ -48,6 +48,12 @@
       <img
         src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=white"
       />
+      <img
+        src="https://img.shields.io/badge/nodedotjs-#339933?style=flat-square&logo=nodedotjs&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/mongodb-#47A248?style=flat-square&logo=mongodb&logoColor=white"
+      />
       <br />
       <img
         src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"
@@ -60,9 +66,6 @@
       />
       <img
         src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"
-      />
-      <img
-        src="https://img.shields.io/badge/Node.js-#339933?style=flat-square&logo=Node.js&logoColor=white"
       />
     </p>
     <h1>My Stats</h1>
