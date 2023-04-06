@@ -55,7 +55,7 @@
           src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"
         />
         <img
-          src="https://img.shields.io/badge/unity-181717?style=for-the-badge&logo=unity&logoColor=white"
+          src="https://img.shields.io/badge/unity-222324?style=for-the-badge&logo=unity&logoColor=white"
         />
         <img
           src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"
