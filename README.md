@@ -53,14 +53,14 @@
         />
         <img
           src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
-        />
-        <br />      
+        />      
         <img
           src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"
         />
         <img
           src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black"
         />
+      <br />
         <img
           src="https://img.shields.io/badge/adobepremierepro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black"
         />
