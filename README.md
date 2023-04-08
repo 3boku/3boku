@@ -49,16 +49,7 @@
         />
         <br />      
         <img
-          src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
-        />
-        <img
-          src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-        />
-        <img
           src="https://img.shields.io/badge/unity-222324?style=for-the-badge&logo=unity&logoColor=white"
-        />
-        <img
-          src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"
         />
         <img
           src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
@@ -82,9 +73,6 @@
         />
         <img
           src="https://img.shields.io/badge/express-181717?style=for-the-badge&logo=express&logoColor=white"
-        />
-        <img
-          src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
         />
         <img
           src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
