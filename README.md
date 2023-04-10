@@ -95,9 +95,11 @@
           src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"
         />
       </div>
-    <h1>My Stats</h1>
+    <div align=center><h1>📚 STATS 📚 </h1></div>
+    <div align=cente>
     <img
         src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=radical"
       />
+    </div>
   </body>
 </html>
