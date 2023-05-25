@@ -11,7 +11,6 @@
     <h1 align="center">저는 정삼복입니다!</h1>
     <h1 align="center">I'm JungSamBok</h1>
     <h1 align="center">私はジョン·サムボクです!</h1>
-    <h2>I'm...</h2>
     <dt align="center">
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
