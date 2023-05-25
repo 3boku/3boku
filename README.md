@@ -6,9 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
+    <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
          />
-    <ul>
+    <h1 align="center">저는 정삼복입니다!</h1>
+    <h1 align="center">I'm JungSamBok</h1>
+    <h1 align="center">私はジョン·サムボクです!</h1>
+    <h2>I'm...</h2>
+    <dt align="center">
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
       <li>(前)S.D.P 디스코드봇 개발팀장</li>
@@ -16,8 +20,8 @@
       <li>(前)2022학년도 서울로봇고등학교 1학년 5반 2학기 회장</li>
       <li>(前)크레로봇 부원</li>
       <li>(現)SPAM 학교 웹사이트 프로젝트  PM</li>
-    </ul>
-    <div align=center><h1>📚 STACKS 📚 </h1></div>
+    </dt>
+    <div align="center"><h1>📚 STACKS 📚 </h1></div>
     <div align="center">
         <img
           src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"
@@ -96,8 +100,8 @@
         />
       </div>
     <div align=center><h1>📚 STATS 📚 </h1></div>
-    <div align=cente>
-    <img
+    <div align=center>
+    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=NANONANDFLASH&show_icons=true&theme=radical"
       />
     </div>
