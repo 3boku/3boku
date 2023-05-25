@@ -10,13 +10,13 @@
          />
     <h1 align="center">저는 정삼복입니다!</br>I'm JungSamBok!</br>私はジョン·サムボクです!</h1>
     <dt align="center">
-      <li style="list-style-type: none;">(現)서울로봇고등학교 시스템과 재학</li>
-      <li style="list-style-type: none;">(現)H.J Studio 대표</li>
-      <li style="list-style-type: none;">(前)S.D.P 디스코드봇 개발팀장</li>
-      <li style="list-style-type: none;">(現)2022학년도 서울로봇고등학교 미디어부 차장</li>
-      <li style="list-style-type: none;">(前)2022학년도 서울로봇고등학교 1학년 5반 2학기 회장</li>
-      <li style="list-style-type: none;">(前)크레로봇 부원</li>
-      <li style="list-style-type: none;">(現)SPAM 학교 웹사이트 프로젝트  PM</li>
+      <li style="list-style-type: none">(現)서울로봇고등학교 시스템과 재학</li>
+      <li style="list-style-type: none">(現)H.J Studio 대표</li>
+      <li style="list-style-type: none">(前)S.D.P 디스코드봇 개발팀장</li>
+      <li style="list-style-type: none">(現)2022학년도 서울로봇고등학교 미디어부 차장</li>
+      <li style="list-style-type: none">(前)2022학년도 서울로봇고등학교 1학년 5반 2학기 회장</li>
+      <li style="list-style-type: none">(前)크레로봇 부원</li>
+      <li style="list-style-type: none">(現)SPAM 학교 웹사이트 프로젝트  PM</li>
     </dt>
     <div align="center"><h1>📚 STACKS 📚 </h1></div>
     <div align="center">
