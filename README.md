@@ -8,9 +8,7 @@
   <body>
     <img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"
          />
-    <h1 align="center">저는 정삼복입니다!</h1>
-    <h1 align="center">I'm JungSamBok</h1>
-    <h1 align="center">私はジョン·サムボクです!</h1>
+    <h1 align="center">저는 정삼복입니다!</br>I'm JungSamBok!</br>私はジョン·サムボクです!</h1>
     <dt align="center">
       <li>(現)서울로봇고등학교 시스템과 재학</li>
       <li>(現)H.J Studio 대표</li>
