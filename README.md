@@ -79,7 +79,7 @@
           src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
         />
         <img
-          src="https://img.shields.io/badge/firebase-#FFCA28?style=for-the-badge&logo=git&logoColor=white"
+          src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=git&logoColor=white"
         />
         <br /> 
         <img
