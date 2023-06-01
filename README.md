@@ -47,11 +47,11 @@
         />
         <img
           src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-        />
-        <br />      
+        />   
         <img
           src="https://img.shields.io/badge/unity-222324?style=for-the-badge&logo=unity&logoColor=white"
         />
+        <br />   
         <img
           src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
         />      
