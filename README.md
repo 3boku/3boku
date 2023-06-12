@@ -11,7 +11,7 @@
     <h1 align="center">저는 정삼복입니다!</br>I'm JungSamBok!</br>私はジョン·サムボクです!</h1>
     <dt align="center">
       <li style="list-style-type: none">(現)서울로봇고등학교 시스템과 재학</li>
-      <li style="list-style-type: none">(現)H.J Studio 대표</li>
+      <li style="list-style-type: none">(現)H.J Studio대표</li>
       <li style="list-style-type: none">(前)S.D.P 디스코드봇 개발팀장</li>
       <li style="list-style-type: none">(現)2022학년도 서울로봇고등학교 미디어부 차장</li>
       <li style="list-style-type: none">(前)2022학년도 서울로봇고등학교 1학년 5반 2학기 회장</li>
