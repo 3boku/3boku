@@ -68,6 +68,9 @@
         <img
           src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black"
         />
+        <img
+          src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"
+        />
         <br />     
         <img
           src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
