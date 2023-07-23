@@ -105,7 +105,7 @@
     <div align=center><h1>📚 STATS 📚 </h1></div>
     <div align=center>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sambok23&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=3boku&show_icons=true&theme=radical"
       />
     </div>
   </body>
