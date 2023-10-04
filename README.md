@@ -26,7 +26,7 @@ func (s *sambok) NewSambok() *sambok {
   Email:     Email{"a24746440@gmail.com"},
   Twitter:   Twitter{"3boku__"},
   Discord:   Discord{"3boku__"},
-  Instargram : Instargram{"phenomenon._.7"},
+  Instargram : Instargram{"_thirdfortune_"},
   
   TechStack: []Technology{
           "Go", "Swift", "Python", "Node.js", "Flutter",
@@ -50,7 +50,7 @@ func (s *sambok) NewSambok() *sambok {
         src="https://github-readme-stats.vercel.app/api?username=3boku&show_icons=true&theme=radical"
       />
 
-## 📫 How to reach me
-- Instargram: https://instagram.com/phenomenon._.7
+## 📫 How to Contact me
+- Instargram: https://instagram.com/_thirdfortune
 - Discord: https://discord.com/users/406398616643698689
 - e-mail: a24746440@gmail.com
