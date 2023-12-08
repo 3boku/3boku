@@ -41,6 +41,8 @@ func (s *sambok) NewSambok() *sambok {
           "KSDC Lead Organizer",
           "Google I/O Extended 2023 Incheon Staff",
           "Flutter MeetUp - In Songdo Staff",
+          "KSDC 2023 HYPER-Web-Organizer, Speaker"
+          "MADC(Mobile Application Developer Conference)-STAFF"
   }
  },
 }
@@ -53,4 +55,5 @@ func (s *sambok) NewSambok() *sambok {
 ## 📫 How to Contact me
 - Instargram: https://instagram.com/_thirdfortune
 - Discord: https://discord.com/users/406398616643698689
+- Linked in: https://www.linkedin.com/in/hyunseo-jung-a92b3b292/
 - e-mail: a24746440@gmail.com
