@@ -1,5 +1,3 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&&color=timeGradient&&animation=twinkling&height=200&fontSize=60"/>
-
 <div style="text-align:center">
 <h1>Hi There!👋<br> はじめまして！👋<br> 안녕하세요!👋</h1>
 
