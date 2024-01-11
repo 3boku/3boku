@@ -8,41 +8,46 @@
 ---
 
 ```go
+package community_forum
 type sambok struct {
- GitHub        GitHub
- Email         Email
- Twitter       Twitter
- Discord       Discord
- Instargram    Instargram
- TechStack     []Technology
- Career        []Career
+	GitHub        GitHub
+	Email         Email
+	Twitter       Twitter
+	Discord       Discord
+	Instargram    Instargram
+	TechStack     []Technology
+	Career        []Career
+	Conferences   []Conferences
 }
 
 func (s *sambok) NewSambok() *sambok {
- return *sambok{
-  GitHub:    GitHub{"3boku"},
-  Email:     Email{"a24746440@gmail.com"},
-  Twitter:   Twitter{"3boku__"},
-  Discord:   Discord{"3boku__"},
-  Instargram : Instargram{"_thirdfortune_"},
-  
-  TechStack: []Technology{
-          "Go", "Swift", "Python", "Node.js", "Flutter",
-          "HTML", "CSS", "JavaScript", "Unity", "Firebase",
-          "AWS", "Azure", "GCP", "Git", "GitHub",
-      },
-  Career: []Career{
-          "Seoul Robotics HighSchool Admission",
-          "Digital Sassac Doit Web Project DevOps Work",
-          "HJ Studio's Game 'Rache' UI Work and PD",
-          "SPAM's Speedat Web Site Backend work and PM",
-          "KSDC Lead Organizer",
-          "Google I/O Extended 2023 Incheon Staff",
-          "Flutter MeetUp - In Songdo Staff",
-          "KSDC 2023 HYPER-Web-Organizer, Speaker"
-          "MADC(Mobile Application Developer Conference)-STAFF"
-  }
- },
+	return *sambok{
+		GitHub:    GitHub{"3boku"},
+		Email:     Email{"a24746440@gmail.com"},
+		Twitter:   Twitter{"3boku__"},
+		Discord:   Discord{"3boku__"},
+		Instargram : Instargram{"_thirdfortune_"},
+
+		TechStack: []Technology{
+			"Go", "Kotlin", "Python", "Node.js", "AWS",
+			"HTML", "CSS", "JavaScript", "GCP", "Git", "GitHub",
+		},
+		Career: []Career{
+			"Seoul Robotics HighSchool Admission",
+			"Digital Sassac Doit Web Project BackEnd work",
+			"HJ Studio's Game 'Rache' UI Work and PD",
+			"SPAM's Speedat Web Site Backend work and PM",
+			"KSDC Lead Organizer",
+		},
+		Conferences   []Conferences{
+		"Google I/O Extended 2023 Incheon-STAFF",
+		"Flutter MeetUp - In Songdo-STAFF",
+		"KSDC 2023 HYPER-Web-Specker",
+		"MADC(Mobile Application Developer Conference)-STAFF",
+		"DDD(Daegu Developer Day)Conference-Specker",
+		"2023 devfest Songdo-Speacker"
+		},
+	},
 }
 ```
 
