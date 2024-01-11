@@ -8,7 +8,6 @@
 ---
 
 ```go
-package community_forum
 type sambok struct {
 	GitHub        GitHub
 	Email         Email
