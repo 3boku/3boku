@@ -38,7 +38,7 @@ func (s *sambok) NewSambok() *sambok {
 			"SPAM's Speedat Web Site Backend work and PM",
 			"KSDC Lead Organizer",
 		},
-		Conferences   []Conferences{
+		Conferences:  []Conferences{
 			"Google I/O Extended 2023 Incheon-STAFF",
 			"Flutter MeetUp - In Songdo-STAFF",
 			"KSDC 2023 HYPER-Web-Specker",
