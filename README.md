@@ -45,7 +45,7 @@ func (s *sambok) NewSambok() *sambok {
 			"MADC(Mobile Application Developer Conference)-STAFF",
 			"DDD(Daegu Developer Day)Conference-Specker",
 			"2023 devfest Songdo-Speacker",
-			"Women Who Go-Speacker"
+			"Women Who Go-Speacker",
 		},
 	},
 }
