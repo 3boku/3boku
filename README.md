@@ -3,8 +3,6 @@
 
 ![애니메이션](https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif)
 
-낭만고퍼 학생 개발자 정삼복, 정현서입니다. <br>
-분산 처리 시스템과 클라우드 컴퓨팅을 좋아합니다.
 </div>
 
 ---
