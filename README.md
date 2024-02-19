@@ -1,3 +1,4 @@
+<a href="https://wakatime.com/@018cc8f5-2dde-4e5c-b91c-53407ae38aa2"><img src="https://wakatime.com/badge/user/018cc8f5-2dde-4e5c-b91c-53407ae38aa2.svg" alt="Total time coded since Jan 2 2024" /></a>
 <div style="text-align:center">
 <h1>Hi There!👋<br> はじめまして！👋<br> 안녕하세요!👋</h1>
 
