@@ -37,7 +37,8 @@ func (s *sambok) NewSambok() *sambok {
 
 		TechStack: []Technology{
 			"Go", "TypeScript", "Python", "Node.js", 
-			"HTML", "CSS", "JavaScript", "Svelte", "Svelte Kit"
+			"HTML", "CSS", "JavaScript", "Svelte", "Svelte Kit",
+			"Java", "Kotlin", "XML", "Jetpack Compose",
 			"MySQL", "PostgresQL", "MongoDB", "Redis",
 			"AWS", "GCP", "Git", "GitHub", "docker",
 		},
@@ -47,6 +48,7 @@ func (s *sambok) NewSambok() *sambok {
 			"HJ Studio's Game 'Rache' UI Work and PD",
 			"SPAM's Speedat Web Site Backend work and PM",
 			"KSDC Lead Organizer",
+			"GDG GolangKorea Organizer",
 		},
 		Conferences:  []Conferences{
 			"Google I/O Extended 2023 Incheon-STAFF",
@@ -56,6 +58,10 @@ func (s *sambok) NewSambok() *sambok {
 			"DDD(Daegu Developer Day)Conference-Specker",
 			"2023 devfest Songdo-Speacker",
 			"Women Who Go-Speacker",
+			"Hello World 2024-STAFF",
+			"kprintf'24-STAFF",
+			"Bulid With AI, Songdo-STAFF",
+			"Bulid With AI United-STAFF",
 		},
 	},
 }
