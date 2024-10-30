@@ -12,12 +12,9 @@
 type sambok struct {
 	GitHub        GitHub
 	Email         Email
-	Twitter       Twitter
-	Discord       Discord
 	Instargram    Instargram
 	TechStack     []Technology
 	Career        []Career
-	Conferences   []Conferences
 }
 
 func (s *sambok) NewSambok() *sambok {
