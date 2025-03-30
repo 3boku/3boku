@@ -19,18 +19,20 @@ type sambok struct {
 
 func (s *sambok) NewSambok() *sambok {
 	return *sambok{
-		GitHub:    GitHub{"3boku"},
-		Email:     Email{"a24746440@gmail.com"},
-		Instargram : Instargram{"__thirdfortune"},
+		GitHub:     GitHub{"3boku"},
+		Email:      Email{"a24746440@gmail.com"},
+		Instargram: Instargram{"h.xuneo_"},
 		TechStack: []Technology{
-			"Go", "Kotlin", "TypeScript",
+			"Go", "Kotlin", "TypeScript", 
 		},
 		Career: []Career{
-			"Seoul Robotics HighSchool Admission",
-			"SPAM Lead",
-			"KSDC Lead Organizer",
-			"GDG GolangKorea Organizer",
-			"DR Labs Founder"
+			"Seoul Robotics HighSchool Graduate",
+			"ex. SPAM Lead",
+			"ex. KSDC Lead Organizer",
+			"GDG Golang Korea Organizer",
+			"ex. Clika.Inc Software Engineer Intern",
+			"DR Labs Founder",
+      			"Post-Math Backend Engineer",
 		},
 	},
 }
