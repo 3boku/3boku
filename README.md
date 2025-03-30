@@ -30,7 +30,7 @@ func (s *sambok) NewSambok() *sambok {
 			"ex. SPAM Lead",
 			"ex. KSDC Lead Organizer",
 			"GDG Golang Korea Organizer",
-			"ex. Clika.Inc Software Engineer Intern",
+			"ex. Clika Inc. Software Engineer Intern",
 			"DR Labs Founder",
       			"Post-Math Backend Engineer",
 		},
